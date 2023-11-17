@@ -15,3 +15,5 @@ I learn a lot of stuff related to data science skills.
 - Essential Machine Learning for Data Analyst
 - Python Progamming
 - Dashboard
+
+You can find me on LinkedIn : https://www.linkedin.com/in/thanavut-tantanasakda-418890218/
