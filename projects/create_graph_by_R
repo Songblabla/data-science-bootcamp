@@ -1,0 +1,43 @@
+---
+title: "Data Visualization Bootcamp Homework"
+output: html_document
+date: "2023-11-16"
+---
+# Instruction
+use diamonds dataset to create 5 charts. knit pdf and submit in discord.
+
+## My First Chart
+```{r}
+library(ggplot2)
+library(dplyr)
+base <- ggplot(mtcars,aes(mpg))
+ggplot(mtcars,aes(mpg)) +
+  geom_histogram(bins = 15)
+```
+
+## My Second Chart
+```{r}
+base2 <- ggplot(diamonds,aes(cut,price))
+base2 +
+  geom_boxplot()
+```
+
+## My Third Chart
+```{r}
+base2 +
+  geom_violin()
+```
+
+## My Fourth Chart
+```{r}
+base +
+  geom_freqpoly(bins = 8)
+```
+
+## My Fifth Chart
+```{r}
+qplot(x = price,
+      data = diamonds,
+      geom = "histogram",
+      bins = 1000)
+```
