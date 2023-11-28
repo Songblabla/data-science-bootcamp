@@ -17,4 +17,4 @@ I learn a lot of stuff related to data science skills.
 - Dashboard (Looker Studio, Tableau)
 
 You can find me on LinkedIn : https://www.linkedin.com/in/thanavut-tantanasakda-418890218/
-<img src="[https://your-image-url.type](https://github.com/Songblabla/data-science-bootcamp/assets/88870992/8dcf607f-f26f-453d-b22c-b870adc29879)https://github.com/Songblabla/data-science-bootcamp/assets/88870992/8dcf607f-f26f-453d-b22c-b870adc29879" width="100" height="100"> : https://api.badgr.io/public/assertions/mz_j1t6zTQ6KYD36nPym-g?identity__email=thanavut32769%40gmail.com
+<img src="https://github.com/Songblabla/data-science-bootcamp/assets/88870992/8dcf607f-f26f-453d-b22c-b870adc29879)https://github.com/Songblabla/data-science-bootcamp/assets/88870992/8dcf607f-f26f-453d-b22c-b870adc29879" width="100" height="100"> : https://api.badgr.io/public/assertions/mz_j1t6zTQ6KYD36nPym-g?identity__email=thanavut32769%40gmail.com
