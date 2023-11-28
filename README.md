@@ -18,4 +18,4 @@ I learn a lot of stuff related to data science skills.
 
 You can find me on LinkedIn : https://www.linkedin.com/in/thanavut-tantanasakda-418890218/
 <img src="https://github.com/Songblabla/data-science-bootcamp/assets/88870992/8dcf607f-f26f-453d-b22c-b870adc29879" width="100" height="100"> :
-[Click Here!]([https://www.google.com](https://api.badgr.io/public/assertions/mz_j1t6zTQ6KYD36nPym-g?identity__email=thanavut32769%40gmail.com)https://api.badgr.io/public/assertions/mz_j1t6zTQ6KYD36nPym-g?identity__email=thanavut32769%40gmail.com)
+[Click Here!](https://api.badgr.io/public/assertions/mz_j1t6zTQ6KYD36nPym-g?identity__email=thanavut32769%40gmail.com)
